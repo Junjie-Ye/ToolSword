@@ -1,6 +1,6 @@
-# ToolSword
+# [ACL2024] ToolSword
 
-## ToolSword: Unveiling Safety Issues of Large Language Models in Tool Learning Across Three Stages
+## [ACL2024] ToolSword: Unveiling Safety Issues of Large Language Models in Tool Learning Across Three Stages
 
 > Data for paper [ToolSword: Unveiling Safety Issues of Large Language Models in Tool Learning Across Three Stages](http://arxiv.org/abs/2402.10753)
 
@@ -24,6 +24,7 @@ Moreover, we conduct further studies with the aim of fostering research on tool 
 
 ## What's New
 
+- **[2024.05.16]** The paper has been accepted to the main conference of ACL 2024.
 - **[2024.02.19]** Release the data for ToolSword.
 - **[2024.02.19]** Paper available on [Arxiv](http://arxiv.org/abs/2402.10753).
 

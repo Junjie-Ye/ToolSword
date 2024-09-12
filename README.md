@@ -62,12 +62,30 @@ In the output stage, we manually evaluate various LLMs in two safety scenarios. 
 If you find this project useful in your research, please cite:
 
 ```
-@misc{ye2024toolsword,
-      title={ToolSword: Unveiling Safety Issues of Large Language Models in Tool Learning Across Three Stages}, 
-      author={Junjie Ye and Sixian Li and Guanyu Li and Caishuang Huang and Songyang Gao and Yilong Wu and Qi Zhang and Tao Gui and Xuanjing Huang},
-      year={2024},
-      eprint={2402.10753},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{ToolSword,
+  author       = {Junjie Ye and
+                  Sixian Li and
+                  Guanyu Li and
+                  Caishuang Huang and
+                  Songyang Gao and
+                  Yilong Wu and
+                  Qi Zhang and
+                  Tao Gui and
+                  Xuanjing Huang},
+  editor       = {Lun{-}Wei Ku and
+                  Andre Martins and
+                  Vivek Srikumar},
+  title        = {ToolSword: Unveiling Safety Issues of Large Language Models in Tool
+                  Learning Across Three Stages},
+  booktitle    = {Proceedings of the 62nd Annual Meeting of the Association for Computational
+                  Linguistics (Volume 1: Long Papers), {ACL} 2024, Bangkok, Thailand,
+                  August 11-16, 2024},
+  pages        = {2181--2211},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2024},
+  url          = {https://aclanthology.org/2024.acl-long.119},
+  timestamp    = {Mon, 26 Aug 2024 16:40:51 +0200},
+  biburl       = {https://dblp.org/rec/conf/acl/YeLLHGWZG024.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
